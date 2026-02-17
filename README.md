@@ -1,3 +1,3 @@
-# test (BIO2024)
+# test (BIO2045)
 
 repo de test pour le cours bio2045
